@@ -4,10 +4,7 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/HangryHub/HangryHubProxyJacky
 
 ## Table of Contents
 
