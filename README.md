@@ -4,7 +4,7 @@
 
 ## Related Projects
 
-  - https://github.com/HangryHub/HangryHubProxyJacky
+  - https://github.com/HangryHub/
 
 ## Table of Contents
 
